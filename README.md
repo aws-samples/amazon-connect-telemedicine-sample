@@ -1,5 +1,4 @@
 # Amazon Connect Telemedicine
-![alt text](?raw=true)
 
 Amazon Connect is an omnichannel cloud contact center. You can create personalized experiences for your customers using omnichannel communications. For example, you can dynamically oﬀer chat and voice contact, based on such factors as customer preference and estimated wait times. Agents, meanwhile, conveniently handle all customers from just one interface.
 

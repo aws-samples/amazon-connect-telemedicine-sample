@@ -43,6 +43,8 @@ To set the hours of operation for a queue
 	- Hours of Operations: Tele-medicine Hours
 3.	Click Add new queue. The queue is automatically active.
 
+For continue configure and import Contact Flow and Queue Flow please select file ## AmazonConnect_Telemedicine_Solution 
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
